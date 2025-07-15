@@ -22,7 +22,6 @@ puedo sumar valor a tu equipo.
       <p style="font-weight: bold; margin-bottom: 10px;">Universidad AIEP</p>
       <ul style="margin: 0 0 15px 20px; line-height: 1.6;">
         <li>Diseño Web y Experiencia de Usuario UX/UI</li>
-        <li>Web Design and Programming</li>
         <li>Diseño y programación web</li>
       </ul>
       <p style="font-weight: bold; margin-bottom: 10px;">Universidad de Playa Ancha</p>
