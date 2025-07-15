@@ -40,6 +40,8 @@ puedo sumar valor a tu equipo.
   - Diseño de interfaces centradas en el usuario.
   - Desarrollo de soluciones frontend elegantes y funcionales.
   - Estrategias digitales para mejorar la experiencia del usuario.
+  - Programador fullstack.
+    
     <br>
 ### 🚀 **Actualmente trabajando en proyectos que combinan creatividad y tecnología para resolver problemas reales.**
 
