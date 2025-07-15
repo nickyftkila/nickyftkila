@@ -7,7 +7,7 @@ Hola, soy Keila Martinez 👋
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de mi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 Mi carrera comenzó como QA, donde descubrí mi pasión por la programación al indagar en los errores del código y encontrar soluciones efectivas. 
 Desde entonces, me he dedicado a construir sistemas funcionales e intuitivos. Estoy lista para aportar mi pasión, habilidades y compromiso a 
