@@ -16,7 +16,6 @@ puedo sumar valor a tu equipo.
 
 
 ## Diplomados
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <table border="0" style="width: 100%; table-layout: fixed; text-align: left; border-spacing: 20px; border-collapse: collapse;">
   <tr>
     <td style="width: 50%; vertical-align: top; font-family: Arial, sans-serif; font-size: 16px; color: #333;">
