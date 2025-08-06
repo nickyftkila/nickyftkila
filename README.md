@@ -33,7 +33,7 @@
       <img src="./git.gif" width="200" alt="Octocat gif" style="border-radius: 10px;">
     </td>
     <td style="width: 33.33%; vertical-align: top; font-family: Arial, sans-serif; font-size: 16px;">
-      <p style="font-weight: bold; margin-bottom: 10px;">𝘾𝙪𝙧𝙨𝙤𝙨 𝙍𝙚𝙖𝙡𝙞𝙯𝙖𝙙𝙤𝙨</p>
+      <p style="font-weight: bold; margin-bottom: 10px;">𝘾𝙪𝙧𝙨𝙤𝙨 𝙍𝙚𝙖𝙡𝙞𝙯𝙖𝙙𝙤𝙨</p>    
       <ul style="margin: 0 0 15px 20px; line-height: 1.6;">
         <li>𝘗𝘳𝘰𝘫𝘦𝘤𝘵 𝘔𝘢𝘯𝘢𝘨𝘦𝘮𝘦𝘯𝘵</li>
         <li>𝘚𝘤𝘳𝘶𝘮 𝘮𝘢𝘴𝘵𝘦𝘳</li>
