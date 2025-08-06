@@ -7,22 +7,19 @@ Hola, soy Nathaly Acosta 👋
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>Estudios</picture>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
-## Estudios
   <table border="0" style="width: 100%; table-layout: fixed; text-align: left; border-spacing: 20px; border-collapse: collapse;">
   <tr>
     <td style="width: 50%; vertical-align: top; font-family: Arial, sans-serif; font-size: 16px; color: #333;">
-##Diplomados
-      <p style="font-weight: bold; margin-bottom: 10px;">Universidad AIEP</p>
+      <p style="font-weight: bold; margin-bottom: 10px;">Universidad AIEP - Diplomados</p>
       <ul style="margin: 0 0 15px 20px; line-height: 1.6;">
         <li>Diseño Web y Experiencia de Usuario UX/UI</li>
         <li>Diseño y programación web</li>
       </ul>
-      <p style="font-weight: bold; margin-bottom: 10px;">Universidad de Playa Ancha</p>
+      <p style="font-weight: bold; margin-bottom: 10px;">Universidad de Playa Ancha - Diplomado</p>
       <ul style="margin: 0 0 15px 20px; line-height: 1.6;">
         <li>Diseño y Gestión Ágil de Proyectos</li>
       </ul>
