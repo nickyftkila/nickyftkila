@@ -12,10 +12,11 @@ Hola, soy Nathaly Acosta 👋
 
 
 
-## Diplomados
+## Estudios
   <table border="0" style="width: 100%; table-layout: fixed; text-align: left; border-spacing: 20px; border-collapse: collapse;">
   <tr>
     <td style="width: 50%; vertical-align: top; font-family: Arial, sans-serif; font-size: 16px; color: #333;">
+##Diplomados
       <p style="font-weight: bold; margin-bottom: 10px;">Universidad AIEP</p>
       <ul style="margin: 0 0 15px 20px; line-height: 1.6;">
         <li>Diseño Web y Experiencia de Usuario UX/UI</li>
