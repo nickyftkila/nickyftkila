@@ -1,4 +1,4 @@
-Hola, soy Nathaly Acosta 👋
+𝘏𝘰𝘭𝘢 𝘴𝘰𝘺 𝘕𝘢𝘵𝘩𝘢𝘭𝘺 𝘈𝘤𝘰𝘴𝘵𝘢👋
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://www.linkedin.com/in/keila-m-a0b26132a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/knma.26?igsh=cWxwNDJrenZybXJy&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -7,21 +7,21 @@ Hola, soy Nathaly Acosta 👋
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>𝔼𝕊𝕋𝕌𝔻𝕀𝕆𝕊
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>𝐄𝐒𝐓𝐔𝐃𝐈𝐎𝐒
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
   <table border="0" style="width: 100%; table-layout: fixed; text-align: left; border-spacing: 20px; border-collapse: collapse;">
   <tr>
     <td style="width: 50%; vertical-align: top; font-family: Arial, sans-serif; font-size: 16px; color: #333;">
-      <p style="font-weight: bold; margin-bottom: 10px;">Universidad AIEP - Diplomados</p>
+      <p style="font-weight: bold; margin-bottom: 10px;">𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙙𝙖𝙙 𝘼𝙄𝙀𝙋 - 𝘿𝙞𝙥𝙡𝙤𝙢𝙖𝙙𝙤𝙨</p>
       <ul style="margin: 0 0 15px 20px; line-height: 1.6;">
-        <li>Diseño Web y Experiencia de Usuario UX/UI</li>
-        <li>Diseño y programación web</li>
+        <li>𝘋𝘪𝘴𝘦ñ𝘰 𝘞𝘦𝘣 𝘺 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘪𝘢 𝘥𝘦 𝘜𝘴𝘶𝘢𝘳𝘪𝘰 𝘜𝘟/𝘜𝘐</li>
+        <li>𝘋𝘪𝘴𝘦ñ𝘰 𝘺 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘢𝘤𝘪ó𝘯 𝘸𝘦𝘣</li>
       </ul>
-      <p style="font-weight: bold; margin-bottom: 10px;">Universidad de Playa Ancha - Diplomado</p>
+      <p style="font-weight: bold; margin-bottom: 10px;">𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙙𝙖𝙙 𝙙𝙚 𝙋𝙡𝙖𝙮𝙖 𝘼𝙣𝙘𝙝𝙖 - 𝘿𝙞𝙥𝙡𝙤𝙢𝙖𝙙𝙤</p>
       <ul style="margin: 0 0 15px 20px; line-height: 1.6;">
-        <li>Diseño y Gestión Ágil de Proyectos</li>
+        <li>𝘋𝘪𝘴𝘦ñ𝘰 𝘺 𝘎𝘦𝘴𝘵𝘪ó𝘯 Á𝘨𝘪𝘭 𝘥𝘦 𝘗𝘳𝘰𝘺𝘦𝘤𝘵𝘰𝘴</li>
       </ul>
     </td>
    <td style="width: 50%; text-align: center; vertical-align: middle;">
@@ -29,13 +29,6 @@ Hola, soy Nathaly Acosta 👋
     </td>
   </tr>
 </table>
-
-    
-### ✨ **Habilidades clave:**
-  - Diseño de interfaces centradas en el usuario.
-  - Desarrollo de soluciones frontend elegantes y funcionales.
-  - Estrategias digitales para mejorar la experiencia del usuario.
-  - Programador fullstack.
     
     <br>
 ### 🚀 **Actualmente trabajando en proyectos que combinan creatividad y tecnología para resolver problemas reales.**
