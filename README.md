@@ -1,7 +1,6 @@
 𝘏𝘰𝘭𝘢 𝘴𝘰𝘺 𝘕𝘢𝘵𝘩𝘢𝘭𝘺 𝘈𝘤𝘰𝘴𝘵𝘢👋
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://www.linkedin.com/in/keila-m-a0b26132a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/knma.26?igsh=cWxwNDJrenZybXJy&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 <p align = "center">
