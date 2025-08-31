@@ -50,56 +50,7 @@
 
 ### 🚀 **𝘈𝘤𝘵𝘶𝘢𝘭𝘮𝘦𝘯𝘵𝘦 𝘢𝘱𝘰𝘺𝘢𝘯𝘥𝘰 𝘱𝘳𝘰𝘺𝘦𝘤𝘵𝘰𝘴 𝘲𝘶𝘦 𝘤𝘰𝘮𝘣𝘪𝘯𝘢𝘯 𝘤𝘳𝘦𝘢𝘵𝘪𝘷𝘪𝘥𝘢𝘥 𝘺 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨í𝘢 𝘱𝘢𝘳𝘢 𝘳𝘦𝘴𝘰𝘭𝘷𝘦𝘳 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘢𝘴 𝘳𝘦𝘢𝘭𝘦𝘴.**
 
-<h3>𝘿𝙚𝙨𝙖𝙧𝙧𝙤𝙡𝙡𝙤 𝙛𝙧𝙤𝙣𝙩𝙚𝙣𝙙</h3>
-<p align="left">
-    <!-- Visual Studio Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" />
-  </a>
-  <!-- HTML5 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  </a>
- <!--CSS-->
- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
 
- <h3>𝘿𝙚𝙨𝙖𝙧𝙧𝙤𝙡𝙡𝙤 𝙗𝙖𝙘𝙠𝙚𝙣𝙙</h3>
-   <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a> 
-     <!-- Java -->
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-    <!-- Django -->
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
-  </a>
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  </a>
-   <!-- oracle -->
-  <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="SQL Developer" width="40" height="40" />
-  </a>
-   <!-- mongodb -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
- </a>
- <h3>𝘼𝙣𝙖𝙡𝙞𝙨𝙩𝙖 𝙌𝘼 𝙁𝙪𝙣𝙘𝙞𝙤𝙣𝙖𝙡 - 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙯𝙖𝙙𝙤𝙧</h3>
-</p>
 
 ### ⚡&nbsp;Análisis de GitHub
 
