@@ -8,49 +8,6 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>𝘈𝘤𝘵𝘶𝘢𝘭𝘮𝘦𝘯𝘵𝘦 𝘢𝘱𝘰𝘺𝘢𝘯𝘥𝘰 𝘱𝘳𝘰𝘺𝘦𝘤𝘵𝘰𝘴 𝘲𝘶𝘦 𝘤𝘰𝘮𝘣𝘪𝘯𝘢𝘯 𝘤𝘳𝘦𝘢𝘵𝘪𝘷𝘪𝘥𝘢𝘥 𝘺 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨í𝘢 𝘱𝘢𝘳𝘢 𝘳𝘦𝘴𝘰𝘭𝘷𝘦𝘳 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘢𝘴 𝘳𝘦𝘢𝘭𝘦𝘴.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
- <table border="0" style="width: 100%; table-layout: fixed; text-align: left; border-spacing: 20px; border-collapse: collapse; background-color: #121212; color: #fff;">
-  <tr>
-    <td style="width: 33.33%; vertical-align: top; font-family: Arial, sans-serif; font-size: 16px;">
-      <p style="font-weight: bold; margin-bottom: 10px;">𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙙𝙖𝙙 𝘼𝙄𝙀𝙋 - 𝘿𝙞𝙥𝙡𝙤𝙢𝙖𝙙𝙤𝙨</p>
-      <ul style="margin: 0 0 15px 20px; line-height: 1.6;">
-        <li>𝘋𝘪𝘴𝘦ñ𝘰 𝘞𝘦𝘣 𝘺 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘪𝘢 𝘥𝘦 𝘜𝘴𝘶𝘢𝘳𝘪𝘰 𝘜𝘟/𝘜𝘐</li>
-        <li>𝘋𝘪𝘴𝘦ñ𝘰 𝘺 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘢𝘤𝘪ó𝘯 𝘸𝘦𝘣</li>
-      </ul>
-      <p style="font-weight: bold; margin-bottom: 10px;">𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙙𝙖𝙙 𝙙𝙚 𝙋𝙡𝙖𝙮𝙖 𝘼𝙣𝙘𝙝𝙖 - 𝘿𝙞𝙥𝙡𝙤𝙢𝙖𝙙𝙤</p>
-      <ul style="margin: 0 0 15px 20px; line-height: 1.6;">
-        <li>𝘋𝘪𝘴𝘦ñ𝘰 𝘺 𝘎𝘦𝘴𝘵𝘪ó𝘯 Á𝘨𝘪𝘭 𝘥𝘦 𝘗𝘳𝘰𝘺𝘦𝘤𝘵𝘰𝘴</li>
-      </ul>
-      <p style="font-weight: bold; margin-bottom: 10px;">𝙐𝙣𝙞𝙫𝙚𝙧𝘴𝘪𝘥𝘢𝘥 𝘿𝙪𝙤𝙘𝙐𝘾</p>
-      <ul style="margin: 0 0 15px 20px; line-height: 1.6;">
-        <li>𝘐𝘯𝘨𝘦𝘯𝘪𝘦𝘳í𝘢 𝘦𝘯 𝘪𝘯𝘧𝘰𝘳𝘮á𝘵𝘪𝘤𝘢</li>
-        <li>𝘈𝘯𝘢𝘭𝘪𝘴𝘵𝘢 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘢𝘥𝘰𝘳 𝘤𝘰𝘮𝘱𝘶𝘵𝘢𝘤𝘪𝘰𝘯𝘢𝘭</li>
-      </ul>
-    </td>
-    <td style="width: 33.33%; text-align: center; vertical-align: middle;">
-      <img src="./git.gif" width="200" alt="Octocat gif" style="border-radius: 10px;">
-    </td>
-    <td style="width: 33.33%; vertical-align: top; font-family: Arial, sans-serif; font-size: 16px;">
-      <p style="font-weight: bold; margin-bottom: 10px;">𝘾𝙪𝙧𝙨𝙤𝙨 𝙍𝙚𝙖𝙡𝙞𝙯𝙖𝙙𝙤𝙨</p>    
-      <ul style="margin: 0 0 15px 20px; line-height: 1.6;">
-        <li>𝘗𝘳𝘰𝘫𝘦𝘤𝘵 𝘔𝘢𝘯𝘢𝘨𝘦𝘮𝘦𝘯𝘵</li>
-        <li>𝘚𝘤𝘳𝘶𝘮 𝘮𝘢𝘴𝘵𝘦𝘳</li>
-        <li>𝘍𝘶𝘯𝘥𝘢𝘮𝘦𝘯𝘵𝘰𝘴 .𝘯𝘦𝘵</li>
-        <li>𝘎𝘦𝘴𝘵𝘪ó𝘯 𝘥𝘦 𝘱𝘳𝘰𝘺𝘦𝘤𝘵𝘰𝘴</li>
-        <li>𝘏𝘛𝘔𝘓</li>
-        <li>𝘊𝘚𝘚</li>
-        <li>𝘑𝘚</li>
-        <li>𝘔𝘢𝘳𝘬𝘦𝘵𝘪𝘯𝘨</li>
-        <li>𝘚𝘦𝘨𝘶𝘳𝘪𝘥𝘢𝘥 𝘥𝘦 𝘭𝘢 𝘪𝘯𝘧𝘰𝘳𝘮𝘢𝘤𝘪ó𝘯</li>
-      </ul>
-    </td>
-  </tr>
-</table>  
-
-### 🚀 **𝘈𝘤𝘵𝘶𝘢𝘭𝘮𝘦𝘯𝘵𝘦 𝘢𝘱𝘰𝘺𝘢𝘯𝘥𝘰 𝘱𝘳𝘰𝘺𝘦𝘤𝘵𝘰𝘴 𝘲𝘶𝘦 𝘤𝘰𝘮𝘣𝘪𝘯𝘢𝘯 𝘤𝘳𝘦𝘢𝘵𝘪𝘷𝘪𝘥𝘢𝘥 𝘺 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨í𝘢 𝘱𝘢𝘳𝘢 𝘳𝘦𝘴𝘰𝘭𝘷𝘦𝘳 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘢𝘴 𝘳𝘦𝘢𝘭𝘦𝘴.**
-
-
-
 ### ⚡&nbsp;Análisis de GitHub
 
 <p align="center">
@@ -59,17 +16,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nickyftkila&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<!--
-**keimartinan/keimartinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
