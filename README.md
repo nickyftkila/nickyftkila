@@ -63,8 +63,8 @@ Identidad, disponibilidad y conexiones
 entre personas y espacios.
 
 <img
-  src="https://img.shields.io/badge/PROJECT_LOADING-FF00B8?style=for-the-badge&logoColor=white"
-  alt="Connect Plus"
+  src="https://img.shields.io/badge/EN_DESARROLLO-FF00B8?style=for-the-badge&logoColor=white"
+  alt="CONNECT+ en desarrollo"
 >
 
 </td>
