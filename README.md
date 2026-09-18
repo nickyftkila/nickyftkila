@@ -1,12 +1,135 @@
+<!-- =====================================================
+     KEILA MARTÍNEZ // QA · CREATOR · TECH
+====================================================== -->
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>𝘏𝘰𝘭𝘢 𝘴𝘰𝘺 𝘒𝘦𝘪𝘭𝘢 𝘔𝘢𝘳𝘵𝘪𝘯𝘦𝘻👋
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://nickyftkila.github.io/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a> 𝘈𝘤𝘵𝘶𝘢𝘭𝘮𝘦𝘯𝘵𝘦 𝘢𝘱𝘰𝘺𝘢𝘯𝘥𝘰 𝘱𝘳𝘰𝘺𝘦𝘤𝘵𝘰𝘴 𝘲𝘶𝘦 𝘤𝘰𝘮𝘣𝘪𝘯𝘢𝘯 𝘤𝘳𝘦𝘢𝘵𝘪𝘷𝘪𝘥𝘢𝘥 𝘺 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨í𝘢 𝘱𝘢𝘳𝘢 𝘳𝘦𝘴𝘰𝘭𝘷𝘦𝘳 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘢𝘴 𝘳𝘦𝘢𝘭𝘦𝘴.
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
 
-<p align="center">
-<a href="https://github.com/nickyftkila">
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nickyftkila&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://nickyftkila.github.io/">
+  <img
+    src="./assets/keila-chaos-profile.png"
+    width="100%"
+    alt="Keila Martínez — QA Creator Tech"
+  />
 </a>
-</p>
+
+<br><br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=900&color=FF00B8&center=true&vCenter=true&width=850&lines=%3E+requirement+received;%3E+chaos+detected;%3E+tests+running...;%3E+evidence+captured;%3E+system+survives"
+  alt="Terminal animation"
+/>
+
+<br>
+
+<a href="https://nickyftkila.github.io/">
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=000000"
+    alt="Portfolio"
+  />
+</a>
+
+<a href="https://github.com/nickyftkila">
+  <img
+    src="https://img.shields.io/badge/GITHUB-08080C?style=for-the-badge&logo=github&logoColor=FFFFFF"
+    alt="GitHub"
+  />
+</a>
+
+<a href="COLOCA_AQUI_TU_LINKEDIN">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-FF00B8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
+    alt="LinkedIn"
+  />
+</a>
+
+</div>
+
+<br>
+
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  width="100%"
+  alt="Separador"
+/>
+
+<h2 align="center">⚠️ TOOLKIT.EXE ⚠️</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OutSystems-EA1C24?style=for-the-badge&logo=outsystems&logoColor=white" alt="OutSystems"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+<img src="https://img.shields.io/badge/GitHub-08080C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+</div>
+
+<br>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+
+### `KNMA TECNOLOGÍA`
+
+**Ideas que funcionan en la vida real.**
+
+Soluciones digitales, calidad, aplicaciones y productos tecnológicos.
+
+<a href="COLOCA_AQUI_EL_ENLACE_DE_KNMA">
+  <img
+    src="https://img.shields.io/badge/ABRIR_PROYECTO-KNMA-00E5FF?style=for-the-badge"
+    alt="Proyecto KNMA"
+  />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### `CONNECT+`
+
+**Same person. Different universes.**
+
+Identidad, disponibilidad y conexiones entre personas.
+
+<a href="COLOCA_AQUI_EL_ENLACE_DE_CONNECT">
+  <img
+    src="https://img.shields.io/badge/ABRIR_PROYECTO-CONNECT+-FF00B8?style=for-the-badge"
+    alt="Proyecto CONNECT+"
+  />
+</a>
+
+</td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nickyftkila&bg_color=050509&color=00E5FF&line=FF00B8&point=ADFF2F&area=true&hide_border=true&custom_title=SYSTEM%20ACTIVITY"
+  width="100%"
+  alt="Actividad de GitHub"
+/>
+
+</div>
+
+<br>
+
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  width="100%"
+  alt="Separador"
+/>
+
+<div align="center">
+
+## `NOT JUST TESTING SOFTWARE.`
+
+# `STRESS-TESTING REALITY.`
+
+<sub>KEILA.MARTÍNEZ.EXE // STILL TESTING...</sub>
+
+</div>
